@@ -1,3 +1,1 @@
-
-项目描述
-的
+https://www.oschina.net/translate/the-flask-mega-tutorial-part-ii-templates
